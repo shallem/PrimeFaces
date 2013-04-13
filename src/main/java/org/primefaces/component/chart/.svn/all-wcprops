@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/chart
+END
+UIChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/chart/UIChart.java
+END
+BaseChartRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/chart/BaseChartRenderer.java
+END
+CartesianChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/chart/CartesianChart.java
+END

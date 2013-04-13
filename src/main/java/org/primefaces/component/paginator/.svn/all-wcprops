@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator
+END
+JumpToPageDropdownRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/JumpToPageDropdownRenderer.java
+END
+NextPageLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/NextPageLinkRenderer.java
+END
+PageLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/PageLinkRenderer.java
+END
+CurrentPageReportRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/CurrentPageReportRenderer.java
+END
+RowsPerPageDropdownRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/RowsPerPageDropdownRenderer.java
+END
+PageLinksRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/PageLinksRenderer.java
+END
+LastPageLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/LastPageLinkRenderer.java
+END
+PaginatorElementRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/PaginatorElementRenderer.java
+END
+FirstPageLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/FirstPageLinkRenderer.java
+END
+PrevPageLinkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/paginator/PrevPageLinkRenderer.java
+END

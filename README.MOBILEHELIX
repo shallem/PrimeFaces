@@ -1,0 +1,8 @@
+CHANGED files:
+
+schedule.js - added .tap handling. See /* SAH */ comments. Also added the isMobile option to toggle taps vs. clicks.
+ScheduleRenderer.java - added the isMobile option.
+schedule.xml - added the boolean isMobile entity attribute.
+
+InputTextRenderer.java - added support for name and type=hidden.
+inputText.xml

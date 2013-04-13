@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/resources-maven-jsf
+END
+standard-faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/resources-maven-jsf/standard-faces-config.xml
+END
+standard-facelets-taglib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/resources-maven-jsf/standard-facelets-taglib.xml
+END
+standard-renderers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/resources-maven-jsf/standard-renderers.xml
+END

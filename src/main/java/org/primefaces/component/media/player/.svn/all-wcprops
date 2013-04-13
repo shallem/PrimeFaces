@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player
+END
+RealPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player/RealPlayer.java
+END
+MediaPlayerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player/MediaPlayerFactory.java
+END
+PDFPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player/PDFPlayer.java
+END
+WindowsPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player/WindowsPlayer.java
+END
+QuickTimePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player/QuickTimePlayer.java
+END
+FlashPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player/FlashPlayer.java
+END
+MediaPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/media/player/MediaPlayer.java
+END

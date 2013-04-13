@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map
+END
+LatLng.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/LatLng.java
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/Circle.java
+END
+Overlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/Overlay.java
+END
+Marker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/Marker.java
+END
+DefaultMapModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/DefaultMapModel.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/Rectangle.java
+END
+Polygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/Polygon.java
+END
+Polyline.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/Polyline.java
+END
+LatLngBounds.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/LatLngBounds.java
+END
+MapModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/model/map/MapModel.java
+END

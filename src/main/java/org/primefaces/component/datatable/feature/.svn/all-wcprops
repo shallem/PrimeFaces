@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature
+END
+FilterFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/FilterFeature.java
+END
+SelectionFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/SelectionFeature.java
+END
+SortFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/SortFeature.java
+END
+RowExpandFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/RowExpandFeature.java
+END
+DraggableColumnsFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/DraggableColumnsFeature.java
+END
+DataTableFeatureKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/DataTableFeatureKey.java
+END
+PageFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/PageFeature.java
+END
+RowEditFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/RowEditFeature.java
+END
+ScrollFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/ScrollFeature.java
+END
+ResizableColumnsFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/ResizableColumnsFeature.java
+END
+DataTableFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/datatable/feature/DataTableFeature.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/poll
+END
+PollHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/poll/PollHandler.java
+END
+PollRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8097/primefaces/tags/3_4_1/src/main/java/org/primefaces/component/poll/PollRenderer.java
+END
